@@ -48,7 +48,9 @@ Frontend: HTML, CSS, JavaScript
 Backend: Python Flask
 Deep Learning: TensorFlow, Keras, VGG16
 Deployment: Render (Backend), GitHub Hosting
+
 🗂️ Project Structure
+
 smart-sorting/
 │
 ├── app.py # Flask backend
@@ -109,9 +111,12 @@ VGG16 – pre-trained model for transfer learning
 Flask – lightweight Python web framework
 
 ✍️ Author
+
 🧑🏻‍💻 Kunati Sahithi
 🔗 GitHub: https://github.com/SAHjlTHI/Smart-Sorting
 🔗 LinkedIn: https://www.linkedin.com/in/sahithi-kunati1005
+
 📜 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
