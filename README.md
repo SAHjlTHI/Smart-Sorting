@@ -7,18 +7,28 @@ SmartSort is an AI-powered web application that detects whether fruits and veget
 
 📸 Demo Visuals
 🏠 Home Page
-Screenshot (583) Screenshot (584)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee6ac797-cf8a-49cb-9922-d8b568d0d83e" />
+
+<img width="1860" height="856" alt="image" src="https://github.com/user-attachments/assets/611c3388-43e9-4017-8c33-6ea9b943cd43" />
+
+
 🔍 Predict Page
 Predict
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63f6a061-77f2-41a9-8895-5b315f50d05f" />
+
 
 📈 Result Output
 Result
 
-About
+<img width="1886" height="917" alt="image" src="https://github.com/user-attachments/assets/164403bc-6c5e-4322-9e9a-7aa26acd4f01" />
+
+
 About
 
-Contact
-Screenshot (590) Screenshot (591)
+<img width="1873" height="913" alt="image" src="https://github.com/user-attachments/assets/4536e21d-ba4a-481c-8f51-a5ddb01c1cd3" />
+
 🎥Demo Video:
 https://drive.google.com/file/d/1W26DcKPSnwxO8gVYwLsN2Tkug1zpECqo/view?usp=sharing
 
